@@ -97,13 +97,12 @@ Landing-Page/
 │── assets/
 📸 Preview
 
-(Add a screenshot of your landing page here)
 
 🚀 How to Run the Project
 
 Clone the repository
 
-git clone <your-repo-link>
+```git clone <repo-link>```
 
 Open the project folder
 
