@@ -6,7 +6,7 @@
 This project is a responsive and modern Landing Page built using front-end web technologies.
 The goal was to design a visually appealing, user-friendly, and structured webpage that effectively presents content and encourages user interaction.
 
-🎯 Objective
+# Objective
 
 Create a clean and responsive UI
 
@@ -16,7 +16,7 @@ Improve front-end development skills
 
 Implement smooth navigation and user engagement elements
 
-🛠️ Technologies Used
+# Technologies Used
 
 HTML5 – For structuring the webpage
 
