@@ -53,6 +53,7 @@ Sketched a basic layout structure before coding.
 
 Created semantic elements (<header>, <section>, <footer>)
 
+
 Organized content into meaningful divisions
 
 Ensured proper heading hierarchy for SEO
