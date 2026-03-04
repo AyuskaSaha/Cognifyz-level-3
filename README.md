@@ -51,8 +51,7 @@ Sketched a basic layout structure before coding.
 
 2️⃣ Building the HTML Structure
 
-Created semantic elements (<header>, <section>, <footer>)
-
+Created semantic elements 
 
 Organized content into meaningful divisions
 
