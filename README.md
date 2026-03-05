@@ -49,6 +49,7 @@ Footer
 
 Sketched a basic layout structure before coding.
 
+
 2️⃣ Building the HTML Structure
 
 Created semantic elements 
