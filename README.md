@@ -32,7 +32,9 @@ Flexbox / Grid – For responsive layout
 
 Media Queries – For mobile responsiveness
 
-🏗️ Development Process
+🏗️ Development Process:
+
+
 1️⃣ Planning the Structure
 
 Defined the sections of the landing page:
