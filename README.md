@@ -32,6 +32,8 @@ Flexbox / Grid – For responsive layout
 
 Media Queries – For mobile responsiveness
 
+
+
 🏗️ Development Process:
 
 
