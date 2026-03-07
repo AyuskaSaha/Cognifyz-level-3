@@ -56,11 +56,11 @@ Sketched a basic layout structure before coding.
 
 2️⃣ Building the HTML Structure
 
-Created semantic elements 
+1)Created semantic elements 
 
-Organized content into meaningful divisions
+2)Organized content into meaningful divisions
 
-Ensured proper heading hierarchy for SEO
+3)Ensured proper heading hierarchy for SEO
 
 3️⃣ Styling with CSS
 
