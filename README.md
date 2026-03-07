@@ -88,7 +88,7 @@ Added button click effects
 
 Included animations for better UX
 
-✨ Features
+# Features
 
 ✅ Fully Responsive Design
 
