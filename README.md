@@ -9,6 +9,7 @@ The goal was to design a visually appealing, user-friendly, and structured webpa
 
 
 
+
 # Objective
 
 Create a clean and responsive UI
